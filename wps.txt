@@ -1,0 +1,24 @@
+# Core Domains: Prevents access to the main site and downloads.
+0.0.0.0 wps.com
+0.0.0.0 ksosoft.com
+0.0.0.0 kingsoft.com
+0.0.0.0 ksyun.com
+
+# Update & CDN: Stops the software from updating or downloading components.
+0.0.0.0 wpscdn.com
+0.0.0.0 up.wps.com
+0.0.0.0 update.wps.com
+
+# Cloud Services: kingsoft-office-service.com	Disables cloud saving, syncing, and account login.
+0.0.0.0 cloud.wps.com
+0.0.0.0 api.wps.com
+
+# Regional APIs: Blocks regional data centers (US, Europe, Singapore).
+0.0.0.0 s-us.wps.com
+0.0.0.0 s-eu.wps.com
+0.0.0.0 s-sg.wps.com
+
+# Ads & Analytics: Blocks in-app advertisements and usage tracking.
+0.0.0.0 wps-info.com
+0.0.0.0 ads.wps.com
+0.0.0.0 counter.wps.com
