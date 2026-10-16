@@ -1,0 +1,57 @@
+# ---- WPS / Kingsoft ----
+0.0.0.0 www.wps.com
+0.0.0.0 account.wps.com
+0.0.0.0 platform.wps.com
+0.0.0.0 pc.wps.com
+0.0.0.0 download.wps.com
+0.0.0.0 wps.cn
+0.0.0.0 www.wps.cn
+0.0.0.0 wpscdn.cn
+0.0.0.0 pcfg.cache.wpscdn.com
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com
+0.0.0.0 wdl.cache.wpscdn.com
+0.0.0.0 kdocs.cn
+0.0.0.0 www.kdocs.cn
+0.0.0.0 docer.com
+0.0.0.0 www.docer.com
+0.0.0.0 kingsoft.cn
+0.0.0.0 www.kingsoft.com
+0.0.0.0 ksyuncs.com
+0.0.0.0 ks3-cn-beijing.ksyun.com
+
+# ---- Opera browser ----
+0.0.0.0 opera.com
+0.0.0.0 www.opera.com
+0.0.0.0 download.opera.com
+0.0.0.0 download1.operacdn.com
+0.0.0.0 download2.operacdn.com
+0.0.0.0 download3.operacdn.com
+0.0.0.0 download4.operacdn.com
+0.0.0.0 desktop.opera.com
+0.0.0.0 ftp.opera.com
+0.0.0.0 get.geo.opera.com
+0.0.0.0 net.geo.opera.com
+0.0.0.0 autoupdate.geo.opera.com
+0.0.0.0 features.opera-api.com
+0.0.0.0 opera-api.com
+0.0.0.0 opera-api2.com
+0.0.0.0 operacdn.com
+0.0.0.0 opera.software
+0.0.0.0 operasoftware.com
+0.0.0.0 addons.opera.com
+0.0.0.0 auth.opera.com
+0.0.0.0 accounts.opera.com
+0.0.0.0 sync.opera.com
+0.0.0.0 sitecheck.opera.com
+0.0.0.0 sitecheck2.opera.com
+0.0.0.0 certs.opera.com
+0.0.0.0 thumbnails.opera.com
+0.0.0.0 opr.as
+
+# ---- Opera built-in VPN (SurfEasy) ----
+0.0.0.0 surfeasy.com
+0.0.0.0 api.surfeasy.com
+0.0.0.0 sec-tunnel.com
+0.0.0.0 api.sec-tunnel.com
+0.0.0.0 api2.sec-tunnel.com
+0.0.0.0 vpn.opera.com
